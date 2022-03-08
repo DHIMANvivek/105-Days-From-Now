@@ -18,7 +18,8 @@ graph TD;
 #### Problems
     
 
-    1.
+    1. 
+    
     
     
 
@@ -53,3 +54,10 @@ graph TD;
 
 </p>
 </details>
+
+
+
+# Content 
+
+visit : https://1blockchain.me/Patterns-Java/
+visit : https://1blockchain.me/Patterns-Java/
