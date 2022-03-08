@@ -1,4 +1,4 @@
-### 105 Day From March 2022
+### 105 Day Java From March 2022
 
 ```mermaid
 graph TD;
@@ -59,9 +59,12 @@ graph TD;
 
 # Content 
 
-visit : https://1blockchain.me/Patterns-Java/
-visit : https://1blockchain.me/Patterns-Java/
 
+		
+
+https://1blockchain.me/Patterns-Java/
+<br>
+https://1blockchain.me/Operators-And-For_Loop-Java
 
 <div align="center">
 	<br>
