@@ -15,8 +15,11 @@ graph TD;
 <details><summary>Coding Ninja's</summary>
 <p>
 
-#### 105 Day Of Code
+#### Problems
+    
 
+    1.
+    
     
 
 </p>
@@ -29,8 +32,9 @@ graph TD;
 <details><summary>Pepcoding</summary>
 <p>
 
-#### 105 Day Of Code
+#### Problems
 
+    1. 
      
 
 </p>
@@ -43,9 +47,9 @@ graph TD;
 <details><summary>LeetCode</summary>
 <p>
 
-#### 105 Day Of Code 
+#### Problems
 
-    
+    1.
 
 </p>
 </details>
