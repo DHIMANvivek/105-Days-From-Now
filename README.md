@@ -25,7 +25,9 @@ graph TD;
 #### Problems
 
   1. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/returnArraySum.png" class="button primary">Return Array Sum</a> | <a href="https://github.com/DHIMANvivek/105-Days-From-Now/blob/master/Coding_Ninja/src/Return_Array_Sum.java" class="button primary">Sol</a>
-
+  
+  2. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/linear%20search.png" class="button primary">Linear Search</a> | <a href="https://github.com/DHIMANvivek/105-Days-From-Now/blob/master/Coding_Ninja/src/linear_Search.java" class="button primary">Sol</a>
+ 
 </p>
 </details>
 
