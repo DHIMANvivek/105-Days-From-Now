@@ -56,3 +56,32 @@ public class linear_Search {
 		}
 	}
 }
+
+
+`````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+
+public class Solution {
+
+    public static int linearSearch(int arr[], int x) {
+		//Your code goes here
+        boolean flag = false;
+        int i = 0;
+  for ( i = 0; i < arr.length; i++) {
+			if (arr[i] == x) {
+				flag = true;
+                break;
+     }
+  }
+ 
+        if(flag == false)
+            return -1;
+        
+		
+        else 
+            return i;
+
+	
+	}
+        
+    }
