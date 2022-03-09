@@ -10,36 +10,48 @@ graph TD;
 
 
 
-# Coding Ninja
+# CodingNinja's
 
-<details><summary>Coding Ninja's</summary>
+
+<details><summary>CodingNinja's</summary>
+	<div class="button-group minor-group">
+    
+  
 <p>
+	
+	
+</div>
 
 #### Problems
-    
 
-    1. 
-    
-    
-    
+  1. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/returnArraySum.png" class="button primary">Return Array Sum</a> | <a href="https://github.com/DHIMANvivek/105-Days-From-Now/blob/master/Coding_Ninja/src/Return_Array_Sum.java" class="button primary">Sol</a>
 
 </p>
 </details>
+
 
 
 
 # PepCoding
 
-<details><summary>Pepcoding</summary>
+
+<details><summary>PepCoding</summary>
+	<div class="button-group minor-group">
+    
+  
 <p>
+	
+	
+</div>
 
 #### Problems
 
-    1. 
-     
+  1. 
 
 </p>
 </details>
+
+
 
 
 # LeetCode
