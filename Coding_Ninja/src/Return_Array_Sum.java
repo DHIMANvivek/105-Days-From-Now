@@ -43,3 +43,28 @@ public class Return_Array_Sum {
 		}
 	}
 }
+
+
+
+
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+
+
+
+import java.util.Scanner;
+public class Solution {
+	
+	public static int sum(int[] arr) {
+		//Your code goes here
+        
+       
+           int res=0;
+                    for(int j=0;j<arr.length;j++)
+                    {
+                        res+=arr[j];
+                    }
+                   return res;
+                
+	}
+}
