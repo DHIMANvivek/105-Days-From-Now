@@ -51,6 +51,11 @@ graph TD;
   1.  <a href="https://www.pepcoding.com/resources/online-java-foundation/patterns/pattern-type-1-official/ojquestion" class="button primary">Pattern 1</a> | <a href="https://github.com/DHIMANvivek/105-Days-From-Now/blob/master/pepCoding/Pattern1.java" class="button primary">Sol</a>
 	
   2.  <a href="https://www.pepcoding.com/resources/online-java-foundation/patterns/pattern-type-2-official/ojquestion" class="button primary">Pattern 2</a> | <a href="https://github.com/DHIMANvivek/105-Days-From-Now/blob/master/pepCoding/pattern2.java" class="button primary">Sol</a>
+	
+  3.  <a href="https://www.pepcoding.com/resources/online-java-foundation/patterns/pattern-type-3-official/ojquestion" class="button primary">Pattern 3</a> | <a href="https://github.com/DHIMANvivek/105-Days-From-Now/blob/master/pepCoding/pattern3.java" class="button primary">Sol</a>
+	
+	
+	
 
 </p>
 </details>
