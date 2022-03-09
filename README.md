@@ -56,7 +56,7 @@ graph TD;
 
 #### Problems
 
-  1. <a href="https://leetcode.com/problems/set-matrix-zeroes/" class="button primary">Set Matrix Zeroes</a>
+  1. <a href="https://leetcode.com/problems/set-matrix-zeroes/" class="button primary">Set Matrix Zeroes</a> | <a href="https://github.com/DHIMANvivek/105-Days-From-Now/blob/master/leetCode/src/leetCode/Set_Matrix_Zeroes.java" class="button primary">Sol</a>
 
 </p>
 </details>
