@@ -48,7 +48,9 @@ graph TD;
 
 #### Problems
 
-  1. 
+  1.  <a href="https://www.pepcoding.com/resources/online-java-foundation/patterns/pattern-type-1-official/ojquestion" class="button primary">Pattern 1</a> | <a href="https://github.com/DHIMANvivek/105-Days-From-Now/blob/master/pepCoding/Pattern1.java" class="button primary">Sol</a>
+	
+  2.  <a href="https://www.pepcoding.com/resources/online-java-foundation/patterns/pattern-type-2-official/ojquestion" class="button primary">Pattern 2</a> | <a href="https://github.com/DHIMANvivek/105-Days-From-Now/blob/master/pepCoding/pattern2.java" class="button primary">Sol</a>
 
 </p>
 </details>
@@ -71,6 +73,7 @@ graph TD;
 #### Problems
 
   1. <a href="https://leetcode.com/problems/set-matrix-zeroes/" class="button primary">Set Matrix Zeroes</a> | <a href="https://github.com/DHIMANvivek/105-Days-From-Now/blob/master/leetCode/src/leetCode/Set_Matrix_Zeroes.java" class="button primary">Sol</a>
+	
 
 </p>
 </details>
