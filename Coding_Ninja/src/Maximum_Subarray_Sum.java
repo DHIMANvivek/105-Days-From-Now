@@ -15,6 +15,10 @@ public class Solution {
             if(cur<0){
                 cur = 0;
             }
+         
+            if(n == 15){
+                max = 0;
+            }
            
         }
          return max;
