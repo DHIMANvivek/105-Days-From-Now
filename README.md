@@ -58,6 +58,8 @@ graph TD;
 	
   3.  <a href="https://www.pepcoding.com/resources/online-java-foundation/patterns/pattern-type-3-official/ojquestion" class="button primary">Pattern 3</a> | <a href="https://github.com/DHIMANvivek/105-Days-From-Now/blob/master/pepCoding/pattern3.java" class="button primary">Sol</a>
 	
+  4.  <a href="https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/digit-frequency-official/ojquestion" class="button primary">Digit Frequency</a> | <a href="https://github.com/DHIMANvivek/105-Days-From-Now/blob/master/pepCoding/Digit_Frequency.java" class="button primary">Sol</a>
+	
 	
 	
 
