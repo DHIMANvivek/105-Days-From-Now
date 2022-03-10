@@ -81,6 +81,9 @@ graph TD;
 
   1. <a href="https://leetcode.com/problems/set-matrix-zeroes/" class="button primary">Set Matrix Zeroes</a> | <a href="https://github.com/DHIMANvivek/105-Days-From-Now/blob/master/leetCode/src/leetCode/Set_Matrix_Zeroes.java" class="button primary">Sol</a>
 	
+	
+  2. <a href="https://leetcode.com/problems/pascals-triangle/submissions/" class="button primary">Set Matrix Zeroes</a> | <a href="https://github.com/DHIMANvivek/105-Days-From-Now/blob/master/leetCode/src/leetCode/pascal_Triangle.java" class="button primary">Sol</a> | <a href="https://www.youtube.com/watch?v=icoql2WKmbA" class="button primary">Video</a> | ★
+	
 
 </p>
 </details>
