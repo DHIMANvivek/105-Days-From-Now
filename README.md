@@ -35,6 +35,8 @@ graph TD;
   5. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Swap_Alternate.jpg" class="button primary">Swap Alternate</a> | <a href="https://github.com/DHIMANvivek/105-Days-From-Now/blob/master/Coding_Ninja/src/Swap_Alternate.java" class="button primary">Sol</a>
 	
   6. <a href="https://www.codingninjas.com/codestudio/problems/two-sum_839653?topList=mohammad-fraz-beginner-dsa-sheet-problems&leftPanelTab=0" class="button primary">Two Sum With ArrayList</a> | <a href="https://github.com/DHIMANvivek/105-Days-From-Now/blob/master/Coding_Ninja/src/Two_Sum_Array_List.java" class="button primary">Sol</a>
+	
+  7. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Target_Contest.jpg" class="button primary">Trade</a> | <a href="https://github.com/DHIMANvivek/105-Days-From-Now/blob/master/Coding_Ninja/src/target_Trade.java" class="button primary">Sol</a>
  
 </p>
 </details>
