@@ -67,5 +67,23 @@ public class Swap_Alternate {
 
 
 
+`````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 
+
+public static void swapAlternate(int arr[]) {
+			// Your code goes here
+			int i;
+			for (i = 0; i < arr.length; i += 2) {
+
+				if (i + 1 < arr.length) {
+					int temp = arr[i];
+					arr[i] = arr[i + 1];
+					arr[i + 1] = temp;
+
+				}
+
+			}
+
+		}
+	}
 
