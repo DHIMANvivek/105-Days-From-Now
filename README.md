@@ -92,6 +92,8 @@ graph TD;
 	
   2. <a href="https://leetcode.com/problems/pascals-triangle/submissions/" class="button primary">Pascal's Triangle</a> | <a href="https://github.com/DHIMANvivek/105-Days-From-Now/blob/master/leetCode/src/leetCode/pascal_Triangle.java" class="button primary">Sol</a> | <a href="https://www.youtube.com/watch?v=icoql2WKmbA" class="button primary">Video</a> | ★
 	
+  3. <a href="https://leetcode.com/problems/next-permutation/" class="button primary">Next Permutation</a> | <a href="https://github.com/DHIMANvivek/105-Days-From-Now/blob/master/leetCode/src/leetCode/Next_Permutation.java" class="button primary">Sol</a> | ★ ★
+	
 
 </p>
 </details>
