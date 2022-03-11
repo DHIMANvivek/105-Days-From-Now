@@ -66,6 +66,8 @@ graph TD;
 	
   4.  <a href="https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/digit-frequency-official/ojquestion" class="button primary">Digit Frequency</a> | <a href="https://github.com/DHIMANvivek/105-Days-From-Now/blob/master/pepCoding/Digit_Frequency.java" class="button primary">Sol</a>
 	
+  5.  <a href="https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/decimal-to-any-base-official/ojquestion" class="button primary">Decimal To Any Base</a> | <a href="https://github.com/DHIMANvivek/105-Days-From-Now/blob/master/pepCoding/Decimal_To_Any_Base.java" class="button primary">Sol</a>
+	
 	
 	
 
