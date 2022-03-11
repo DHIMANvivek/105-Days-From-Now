@@ -31,6 +31,8 @@ graph TD;
   3. <a href="https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms/content/118820/offering/1381870?leftPanelTab=0" class="button primary">Maximum Subarray Sum [Kadane's Algorithm]</a> | <a href="https://github.com/DHIMANvivek/105-Days-From-Now/blob/master/Coding_Ninja/src/Maximum_Subarray_Sum.java" class="button primary">Sol</a>
 
   4. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Arrange_Numbers_In_Arrays.png" class="button primary">Arrange Numbers in Array</a> | <a href="https://github.com/DHIMANvivek/105-Days-From-Now/blob/master/Coding_Ninja/src/Arrange_Numbers_In_Array.java" class="button primary">Sol</a>
+	
+  5. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Swap_Alternate.jpg" class="button primary">Swap Alternate</a> | <a href="https://github.com/DHIMANvivek/105-Days-From-Now/blob/master/Coding_Ninja/src/Swap_Alternate.java" class="button primary">Sol</a>
  
 </p>
 </details>
