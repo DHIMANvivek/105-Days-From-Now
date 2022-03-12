@@ -104,6 +104,8 @@ graph TD;
 	
   3. <a href="https://leetcode.com/problems/next-permutation/" class="button primary">Next Permutation</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/leetCode/src/leetCode/Next_Permutation.java" class="button primary">Sol</a> | <a href="https://www.youtube.com/watch?v=x3B8_J-g7HE" class="button primary">Video</a>  | ★ ★ 
 	
+  4. <a href="https://leetcode.com/problems/maximum-subarray/" class="button primary">Kadan's Algorithm</a> | <a href="https://leetcode.com/submissions/detail/658416242/" class="button primary">Sol</a>
+	
 
 </p>
 </details>
