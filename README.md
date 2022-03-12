@@ -39,6 +39,8 @@ graph TD;
   7. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Target_Contest.jpg" class="button primary">Trade</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/target_Trade.java" class="button primary">Sol</a>
 	
   8. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Find_Unique.jpg" class="button primary">Find Unique</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Find_Unique.java" class="button primary">Sol</a>
+	
+  9. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Array_Intersection.jpg" class="button primary">Find Unique</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Array_Intersection.java" class="button primary">Sol</a>
  
 </p>
 </details>
