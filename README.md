@@ -106,6 +106,8 @@ graph TD;
 	
   4. <a href="https://leetcode.com/problems/maximum-subarray/" class="button primary">Kadan's Algorithm</a> | <a href="https://leetcode.com/submissions/detail/658416242/" class="button primary">Sol</a>
 	
+  5. <a href="https://leetcode.com/problems/sort-colors/" class="button primary">Dutch National Flag (DNF) Sort</a> | <a href="https://leetcode.com/submissions/detail/658525991/" class="button primary">Sol</a>
+	
 
 </p>
 </details>
