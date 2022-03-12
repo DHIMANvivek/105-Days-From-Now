@@ -42,7 +42,7 @@ graph TD;
 	
   9. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Array_Intersection.jpg" class="button primary">Array Intersection</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Array_Intersection.java" class="button primary">Sol</a>
 	
-  10. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Triplet_Sum.jpg" class="button primary">Triplet Sum</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Triplet_Sum.java" class="button primary">Sol</a>
+   10. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Triplet_Sum.jpg" class="button primary">Triplet Sum</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Triplet_Sum.java" class="button primary">Sol</a>
  
 </p>
 </details>
