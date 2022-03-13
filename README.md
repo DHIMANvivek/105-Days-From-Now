@@ -112,6 +112,9 @@ graph TD;
 	
   5. <a href="https://leetcode.com/problems/sort-colors/" class="button primary">Dutch National Flag (DNF) Sort</a> | <a href="https://leetcode.com/submissions/detail/658525991/" class="button primary">Sol</a>
 	
+  6. <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/" class="button primary">Best Time to Buy and Sell Stock</a> | <a href="https://leetcode.com/submissions/detail/659162846/" class="button primary">Sol</a>
+	
+	
 
 </p>
 </details>
