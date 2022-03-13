@@ -45,6 +45,8 @@ graph TD;
   10. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Triplet_Sum.jpg" class="button primary">Triplet Sum</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Triplet_Sum.java" class="button primary">Sol</a>
 	
   11. <a href="https://www.codingninjas.com/codestudio/problems/631055?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0" class="button primary">Sort 0's 1's 2's</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Sort-0-1-2.java" class="button primary">Sol</a>
+	
+  12. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/binary_search.jpg" class="button primary">Binary Search</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Binary_Search.java" class="button primary">Sol</a>
  
 </p>
 </details>
