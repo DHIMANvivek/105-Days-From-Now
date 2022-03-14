@@ -82,6 +82,8 @@ graph TD;
 	
   5.  <a href="https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/decimal-to-any-base-official/ojquestion" class="button primary">Decimal To Any Base</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/pepCoding/Decimal_To_Any_Base.java" class="button primary">Sol</a>
 	
+  6.  <a href="https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/any-base-to-decimal-official/ojquestion#" class="button primary">Any Base To Decimal</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/pepCoding/AnyBASE_To_Decimal.java" class="button primary">Sol</a>
+	
 	
 	
 
