@@ -49,6 +49,8 @@ graph TD;
   12. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/binary_search.jpg" class="button primary">Binary Search</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Binary_Search.java" class="button primary">Sol</a>
 	
   13. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/SelectionSort.jpg" class="button primary">Selection Sort</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Selection_Sort.java" class="button primary">Sol</a>
+	
+  14. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Bubble_Sort.jpg" class="button primary">Code Bubble Sort</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Bubble_Sort.java" class="button primary">Sol</a>
  
 </p>
 </details>
