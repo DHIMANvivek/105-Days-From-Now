@@ -116,6 +116,7 @@ graph TD;
 	
   6. <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/" class="button primary">Best Time to Buy and Sell Stock</a> | <a href="https://leetcode.com/submissions/detail/659162846/" class="button primary">Sol</a>
 	
+  7. <a href="https://leetcode.com/problems/rotate-image/" class="button primary">Rotate Image</a> | <a href="https://leetcode.com/submissions/detail/659872584/" class="button primary">Sol</a>
 	
 
 </p>
