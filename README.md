@@ -126,6 +126,8 @@ graph TD;
 	
   7. <a href="https://leetcode.com/problems/rotate-image/" class="button primary">Rotate Image</a> | <a href="https://leetcode.com/submissions/detail/659872584/" class="button primary">Sol</a>
 	
+  8. <a href="https://leetcode.com/problems/merge-intervals/submissions/" class="button primary">Merge Intervals</a> | <a href="https://leetcode.com/submissions/detail/660607040/" class="button primary">Sol</a> | ★
+	
 
 </p>
 </details>
