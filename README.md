@@ -52,7 +52,7 @@ graph TD;
 	
   14. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Bubble_Sort.jpg" class="button primary">Code Bubble Sort</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Bubble_Sort.java" class="button primary">Sol</a>
 	
-  15. <a href="https://www.codingninjas.com/codestudio/problems/stocks-are-profitable_893405?topList=mohammad-fraz-beginner-dsa-sheet-problems" class="button primary">Code Bubble Sort</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/stocks_ArrayList.java" class="button primary">Sol</a>
+  15. <a href="https://www.codingninjas.com/codestudio/problems/stocks-are-profitable_893405?topList=mohammad-fraz-beginner-dsa-sheet-problems" class="button primary">Stocks are profitable ArrayList</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/stocks_ArrayList.java" class="button primary">Sol</a>
  
 </p>
 </details>
