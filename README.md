@@ -55,6 +55,8 @@ graph TD;
   15. <a href="https://www.codingninjas.com/codestudio/problems/stocks-are-profitable_893405?topList=mohammad-fraz-beginner-dsa-sheet-problems" class="button primary">Stocks are profitable ArrayList</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/stocks_ArrayList.java" class="button primary">Sol</a> | ★
 	
   16. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/mergeTwoSortedArray.jpg" class="button primary">Code Merge Two Sorted Arrays</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/mergeTwoSortedArray.java" class="button primary">Sol</a>
+	
+  17. <a href="https://www.codingninjas.com/codestudio/problems/699917?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0" class="button primary">Merge Intervals ArrayList</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/mergeSort_ArrayList.java" class="button primary">Sol</a> | ★ ★
  
 </p>
 </details>
