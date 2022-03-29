@@ -150,9 +150,9 @@ graph TD;
 
 		
 
-https://1blockchain.me/Patterns-Java/
+https://androidtask.com/Patterns-Java/
 <br>
-https://1blockchain.me/Operators-And-For_Loop-Java
+https://androidtask.com/Operators-And-For_Loop-Java
 
 <div align="center">
 	<br>
