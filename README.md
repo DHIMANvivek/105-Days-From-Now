@@ -61,6 +61,9 @@ graph TD;
   18. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/zeroesToEnd.jpg" class="button primary">Push Zeros to end</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Push_Zeros_to_end.java" class="button primary">Sol</a>
 	
   19. <a href="https://www.codingninjas.com/codestudio/problems/occurs-once_1214969?topList=mohammad-fraz-beginner-dsa-sheet-problems" class="button primary">Occurs Once</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Occur_Once.java" class="button primary">Sol</a>
+	  
+  20. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/countwords.jpg" class="button primary">Count Words</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Count_Words.java" class="button primary">Sol</a>
+	
  
 </p>
 </details>
