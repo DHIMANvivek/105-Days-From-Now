@@ -64,6 +64,8 @@ graph TD;
 	  
   20. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/countwords.jpg" class="button primary">Count Words</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Count_Words.java" class="button primary">Sol</a>
 	
+  21. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/String_Palindrome.jpg" class="button primary">String Palindrome</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/String_Palindrome.java" class="button primary">Sol</a>
+	
  
 </p>
 </details>
