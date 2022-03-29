@@ -150,9 +150,9 @@ graph TD;
 
 		
 
-https://androidtask.com/Patterns-Java/
+https://www.androidtask.com/Patterns-Java/
 <br>
-https://androidtask.com/Operators-And-For_Loop-Java
+https://www.androidtask.com/Operators-And-For_Loop-Java
 
 <div align="center">
 	<br>
