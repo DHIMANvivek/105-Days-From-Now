@@ -68,6 +68,8 @@ graph TD;
 	
   22. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/All_Substring.jpg" class="button primary">All Sub String</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/All_Substring.java" class="button primary">Sol</a>
 	
+  23. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Reverse_word.jpg" class="button primary">All Sub String</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Reverse_Word.java" class="button primary">Sol</a> | ★ ★
+	
  
 </p>
 </details>
