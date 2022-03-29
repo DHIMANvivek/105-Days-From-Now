@@ -66,6 +66,8 @@ graph TD;
 	
   21. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/String_Palindrome.jpg" class="button primary">String Palindrome</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/String_Palindrome.java" class="button primary">Sol</a>
 	
+  22. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/All_Substring.jpg" class="button primary">All Sub String</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/All_Substring.java" class="button primary">Sol</a>
+	
  
 </p>
 </details>
