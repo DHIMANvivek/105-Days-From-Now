@@ -72,6 +72,8 @@ graph TD;
 	
   24. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Reverse_Each_Word.png" class="button primary">Reverse Each Word</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Reverse_Each_Word.java" class="button primary">Sol</a> | ★ 
 	
+  25. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Check_Permuation.png" class="button primary">Check Permutation</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Check_Permutation.java" class="button primary">Sol</a> | ★ ★ ★ 
+	
  
 </p>
 </details>
