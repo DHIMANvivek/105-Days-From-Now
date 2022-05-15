@@ -74,6 +74,8 @@ graph TD;
 	
   25. <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Check_Permuation.png" class="button primary">Check Permutation</a> | <a href="https://raw.githubusercontent.com/DHIMANvivek/105-Days-From-Now/master/Coding_Ninja/src/Check_Permutation.java" class="button primary">Sol</a> | ★ ★ ★ 
 	
+  26. <a href="https://github.com/DHIMANvivek/Master-Recursion" class="button primary">Master Recursion</a> | ★ ★ ★ 
+	
  
 </p>
 </details>
