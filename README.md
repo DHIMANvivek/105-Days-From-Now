@@ -166,6 +166,9 @@ https://www.androidtask.com/Patterns-Java/
 <br>
 https://www.androidtask.com/Operators-And-For_Loop-Java
 
+[coding-interview_Leetcode_solutions.pdf](https://github.com/DHIMANvivek/105-Days-From-Now/files/8694309/coding-interview_Leetcode_solutions.pdf)
+
+
 <div align="center">
 	<br>
 	<a href="https://www.youtube.com/channel/UC0G464PLcom78IyfzaQTi7A?sub_confirmation=1">
